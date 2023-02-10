@@ -47,3 +47,30 @@ Fast food ordering machine
 	- 按下確認鍵後，btnConfirm就會判定textField有無填寫資訊，若是有，就會跳出InputDialog要求輸入txt檔名，最後送出。
 
 - 這三個utility class使用到了JPanel, JFrame, JButton, JOptionPane.
+
+## Demo
+- 開始畫面
+![螢幕擷取畫面_20230210_074557](https://user-images.githubusercontent.com/69389836/218091014-71d619dd-55ee-462b-8fb4-9dfc9f801eb8.png)
+-點餐畫面(未選取食物就想結帳)
+![螢幕擷取畫面_20230210_080939](https://user-images.githubusercontent.com/69389836/218091181-ed79e695-624d-40eb-864f-a7d61f444ca2.png)
+- 點餐畫面
+![螢幕擷取畫面_20230210_074613](https://user-images.githubusercontent.com/69389836/218091049-b87d5b54-b8f2-40df-87e4-51fbf483f350.png)
+![螢幕擷取畫面_20230210_074636](https://user-images.githubusercontent.com/69389836/218091059-4bc4b40b-f49b-4365-a2c9-6bed3a0b180d.png)
+![螢幕擷取畫面_20230210_074657](https://user-images.githubusercontent.com/69389836/218091075-0068e7ec-de6a-4706-8826-7578f7a54c85.png)
+![螢幕擷取畫面_20230210_074707](https://user-images.githubusercontent.com/69389836/218091090-7ed76acb-0e93-4cc8-8351-7171954794d2.png)
+- 點餐畫面(輸入折扣碼)
+![螢幕擷取畫面_20230210_074726](https://user-images.githubusercontent.com/69389836/218091110-b9d1f062-ed75-4f99-abc6-3d781ad5464d.png)
+- 訂購資訊填寫(未填寫完整)
+![螢幕擷取畫面_20230210_074733](https://user-images.githubusercontent.com/69389836/218091135-39f8e448-a872-46b2-b8c5-0d3bcaaf9c1d.png)
+- 訂購資訊填寫
+![螢幕擷取畫面_20230210_074838](https://user-images.githubusercontent.com/69389836/218091214-e260810a-da8d-43b4-ab5e-bb82336b480b.png)
+![螢幕擷取畫面_20230210_081002](https://user-images.githubusercontent.com/69389836/218091280-5baeeb3c-45fb-4805-b012-d89b2bf361e3.png)
+![螢幕擷取畫面_20230210_074847](https://user-images.githubusercontent.com/69389836/218091236-37de0f9c-365d-41a2-8217-07ecaf0e6a99.png)
+![螢幕擷取畫面_20230210_074902](https://user-images.githubusercontent.com/69389836/218091249-1d07a4ae-fb82-41ad-83bb-8159537dff55.png)
+- txt收據
+![螢幕擷取畫面_20230210_074955](https://user-images.githubusercontent.com/69389836/218091312-0875cb24-9365-43a7-bfbd-63a629e77a14.png)
+
+
+
+
+
