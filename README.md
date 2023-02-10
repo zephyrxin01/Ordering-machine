@@ -51,7 +51,7 @@ Fast food ordering machine
 ## Demo
 - 開始畫面
 	- ![螢幕擷取畫面_20230210_074557](https://user-images.githubusercontent.com/69389836/218091014-71d619dd-55ee-462b-8fb4-9dfc9f801eb8.png)
--點餐畫面(未選取食物就想結帳)
+- 點餐畫面(未選取食物就想結帳)
 	- ![螢幕擷取畫面_20230210_080939](https://user-images.githubusercontent.com/69389836/218091181-ed79e695-624d-40eb-864f-a7d61f444ca2.png)
 - 點餐畫面
 	- ![螢幕擷取畫面_20230210_074613](https://user-images.githubusercontent.com/69389836/218091049-b87d5b54-b8f2-40df-87e4-51fbf483f350.png)
