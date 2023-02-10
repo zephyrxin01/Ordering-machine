@@ -62,9 +62,9 @@ Fast food ordering machine
 	- ![螢幕擷取畫面_20230210_074726](https://user-images.githubusercontent.com/69389836/218091110-b9d1f062-ed75-4f99-abc6-3d781ad5464d.png)
 	- ![螢幕擷取畫面_20230210_074733](https://user-images.githubusercontent.com/69389836/218091135-39f8e448-a872-46b2-b8c5-0d3bcaaf9c1d.png)
 - 訂購資訊填寫(未填寫完整)
-	- ![螢幕擷取畫面_20230210_074838](https://user-images.githubusercontent.com/69389836/218091214-e260810a-da8d-43b4-ab5e-bb82336b480b.png)
-- 訂購資訊填寫
 	- ![螢幕擷取畫面_20230210_081002](https://user-images.githubusercontent.com/69389836/218091280-5baeeb3c-45fb-4805-b012-d89b2bf361e3.png)
+- 訂購資訊填寫
+	- ![螢幕擷取畫面_20230210_074838](https://user-images.githubusercontent.com/69389836/218091214-e260810a-da8d-43b4-ab5e-bb82336b480b.png)
 	- ![螢幕擷取畫面_20230210_074847](https://user-images.githubusercontent.com/69389836/218091236-37de0f9c-365d-41a2-8217-07ecaf0e6a99.png)
 	- ![螢幕擷取畫面_20230210_074902](https://user-images.githubusercontent.com/69389836/218091249-1d07a4ae-fb82-41ad-83bb-8159537dff55.png)
 - txt收據
