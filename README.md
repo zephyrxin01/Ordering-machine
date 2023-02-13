@@ -1,7 +1,7 @@
 # Ordering-machine
 Fast food ordering machine
 ## 程式碼操作說明
-- 在終端機中輸入 ‵‵‵java MainMenu ‵‵‵
+- 在終端機中輸入 ```java MainMenu ```
 - 若出現錯誤，請務必確認程式碼內的索引(read and write)是否正確
 - 正常執行下，首先會出現歡迎頁面，點選「開始訂購食物」，則進入點餐頁面
 - 點餐頁面對應的是FoodMenu，我們透過JTabbed將主餐、附餐、飲料分成這幾頁面
